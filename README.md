@@ -19,4 +19,4 @@
 
 ## 2015
 
-1) [Economic Reasoning and Artificial Intelligence](http://science.sciencemag.org/content/349/6245/267)
+1) [Economic Reasoning and Artificial Intelligence, July 2015](http://science.sciencemag.org/content/349/6245/267)
